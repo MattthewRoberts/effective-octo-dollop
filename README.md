@@ -1,7 +1,7 @@
 # effective-octo-dollop
 
 ## Fun with italics
-like *this* or 
+like *this* 
 
 ## Fun with bolding
 like **this**
